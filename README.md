@@ -1,2 +1,2 @@
 # To-Do-List
-Basic To Do List on bootstrap
+Базовий список справ на основі проєкту з відкритим кодом
